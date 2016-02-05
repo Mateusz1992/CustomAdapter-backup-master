@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Find bluetooth</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_chosen_device">Choose sensor</string>
+    <string name="messageReceived">Large Text</string>
+    <string name="title_activity_lsm9_ds1_sensor">LSM9DS1_sensor</string>
+    <string name="icon">icon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
